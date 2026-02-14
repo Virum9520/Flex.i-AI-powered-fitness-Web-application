@@ -186,17 +186,6 @@ The Flex.i web app is structured around four key sections:
 
 ---
 
-## 👥 Team — Untitled
-
-| Name | Role |
-|---|---|
-| **Virum Ranka** | ML · Backend Developer |
-| **Yashvi Shah** | ML · Backend Developer |
-| **Dwisha Shah** | ML · Frontend Developer |
-| **Sowmya Dadheech** | ML · Frontend Developer |
-
----
-
 ## 📁 Project Structure
 
 ```
